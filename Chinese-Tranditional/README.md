@@ -2,11 +2,11 @@
 
 @版本 2.1.0
 
-譯注：此翻譯版，主要給不能流利的讀英文的人看，相關專有名詞還是保留原文。翻譯不好地方請協助pull request.
+譯注：此翻譯版，主要給不流利地讀英文的人看，相關專有名詞還是保留原文。翻譯得不好的地方請協助pull request.
 
-此repository包含了一些前端開發的面試問題，來審查一個有潛力的面試者。這並不是建議你對同一個面試者問上所有的問 (那會花費好幾小時)。從列表中挑幾個題目，應該就夠幫助你審查面試者是否擁有你需要的技能。
+此repository包含了一些前端開發的面試問題，來審查一個有潛力的面試者。這並不是建議你對同一個面試者問上所有的問題 (那會花費好幾個小時)。從列表中挑幾個題目，應該就夠幫助你審查面試者是否擁有你需要的技能。
 
-[Rebecca Murphey](http://rmurphey.com/) 的 [Baseline For Front-End Developers](http://rmurphey.com/blog/2012/04/12/a-baseline-for-front-end-developers/) 也是一篇很棒且值得讀的文章在你開始面試之前。
+[Rebecca Murphey](http://rmurphey.com/) 的 [Baseline For Front-End Developers](http://rmurphey.com/blog/2012/04/12/a-baseline-for-front-end-developers/) 也是一篇很棒且值得讀的文章，在你開始面試之前。
 
 **注意：** 請記住一點，很多問題都是隨情況而變化，能引發很多有趣的討論，比直接的標準答案更能讓你瞭解此人的能力。
 
@@ -85,7 +85,7 @@
 ####[[⬆]](#toc) <a name='css'>CSS 規格問題集：</a>
 
 * 描述 "reset" 在 CSS 中做什麼, 如何用？
-* 描述 Floats 並解釋如何運作
+* 描述 Floats 並解釋其如何運作
 * 有哪些不同的 clearing 技術？哪個適用在哪種內容上？
 * 描述 CSS sprites, 你如何實作在網頁或網站上？
 * 你最喜愛的圖片取代技術是什麼？你什麼時候會用到？
